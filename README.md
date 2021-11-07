@@ -6,7 +6,7 @@
 
 
 
-This is an analysis of 4 securities, PayPal, Square, Green Dot and Goldman Sachs. What is fun about this analysis is I have written some SQL queries and that was new for me. I created a temporary database with sqlite and read in some data to popl]ulate the database, then I created the engine that would interact with the database. Than I wrote a few queries to pull specific data from the database and read it into a pandas dataframe. Once I had the pandas dataframes I went on to do some standard analysis of the data to see what we could interpret. 
+This is an analysis of 4 securities, PayPal, Square, Green Dot and Goldman Sachs. What is fun about this analysis is I have written some SQL queries and that was new for me. I created a temporary database with sqlite and read in some data to populate the database, then I created the engine that would interact with the database. I wrote a few queries to pull specific data from the database and read it into a pandas dataframe. Once I had the pandas dataframes I went on to do some standard analysis of the data to see what we could interpret. 
 
 
 ## Technologies
